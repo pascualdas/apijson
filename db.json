@@ -22,6 +22,27 @@
       "totalProducInCart": 0
     },
     {
+      "id": "1",
+      "name": "Camara Domo",
+      "price": 550000,
+      "stock": 6,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nam laborum perferendis. Numquam, maiores qui nobis natus iusto dolor facere alias dicta voluptates ut quia libero facilis, delectus vitae soluta!",
+      "images": [
+        {
+          "image": "https://via.placeholder.com/600/771796",
+          "thumbnail": "https://via.placeholder.com/150/771796"
+        },
+        {
+          "image": "https://via.placeholder.com/600/92c952",
+          "thumbnail": "https://via.placeholder.com/150/92c952"
+        }
+      ],
+      "new": true,
+      "offer": false,
+      "quantityInCart": 0,
+      "totalProducInCart": 0
+    },
+    {
       "id": "2",
       "name": "Microfono",
       "price": 900000,
