@@ -22,7 +22,7 @@
       "totalProducInCart": 0
     },
     {
-      "id": "1",
+      "id": "2",
       "name": "Camara Domo",
       "price": 550000,
       "stock": 6,
@@ -43,7 +43,7 @@
       "totalProducInCart": 0
     },
     {
-      "id": "2",
+      "id": "3",
       "name": "Microfono",
       "price": 900000,
       "stock": 2,
@@ -68,7 +68,7 @@
       "totalProducInCart": 0
     },
     {
-      "id": "3",
+      "id": "4",
       "name": "Audifonos",
       "price": 250000,
       "stock": 4,
@@ -85,7 +85,7 @@
       "totalProducInCart": 0
     },
     {
-      "id": "4",
+      "id": "5",
       "name": "Luces LED",
       "price": 250000,
       "stock": 15,
